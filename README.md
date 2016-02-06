@@ -1,4 +1,4 @@
-# motorcycleComputer
+# Motorcycle Computer
 A microcontroller (arduino/spark/photon) based system to provide additional functions to a motorcycle.
 
 This project will be to create a computer to augment a motorcycle to provide additional features.
